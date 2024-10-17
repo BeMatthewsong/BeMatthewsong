@@ -1,5 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=ccffcc&height=150&section=header&text=Hello%20👋%20&animation=fadeIn&fontColor=ffffff)
-  
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BB12&width=435&lines=Attitude+quickly+becomes+skill.)](https://git.io/typing-svg)
 
 <p align="left">
@@ -17,3 +17,4 @@
 
 ![Matthewsong's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeMatthewsong&theme=catppuccin_mocha&show_icons=true)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBeMatthewsong&count_bg=%2384C961&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
