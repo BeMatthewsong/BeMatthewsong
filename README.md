@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=ccffcc&height=150&section=header&text=Hello%20👋%20&animation=fadeIn&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=slice&color=ccffcc&height=150&section=header&text=Hello%20👋%20&animation=fadeIn&fontColor=ffffff)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BB12&width=435&lines=Attitude+quickly+becomes+skill.)](https://git.io/typing-svg)
 
