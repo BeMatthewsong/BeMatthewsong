@@ -1,6 +1,6 @@
-<h1 align="left">Hi 👋, I'm Matthew Song</h1>
-<h3 align="left>Welcome to my page!</h3>
-<h3 align="left">I am a positive and considerate  developer.</h3>
+<h1 align="left">Hello 👋, I'm Matthew Song</h1>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BB12&width=435&lines=Attitude+quickly+becomes+skill.)](https://git.io/typing-svg)
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
