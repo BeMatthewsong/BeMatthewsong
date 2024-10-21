@@ -12,18 +12,10 @@
 <br/>
 <br/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>&nbsp
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/CSS modules-000000?style=flat-square&logo=cssmodules&logoColor=white"/></a>&nbsp 
-</p>
+[![My Skills](https://skillicons.dev/icons?i=next,react,ts,js,tailwind&theme=light)](https://skillicons.dev)
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,figma,notion&theme=light)](https://skillicons.dev)
+
 
 ![Matthewsong's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeMatthewsong&theme=catppuccin_mocha&show_icons=true)
 
