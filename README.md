@@ -14,8 +14,6 @@
 
 ![Matthewsong's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeMatthewsong&theme=catppuccin_mocha&show_icons=true)
 
-<p>현재는 디자인시스템과 headless 웹앱빌더를 만들면서 재사용성, 유지보수에 대해 공부하고 있습니다.</p>
-
 </div>
 
 <div align="right">
